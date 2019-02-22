@@ -12,12 +12,12 @@ network
 
 1.  Confirm that a link to uniwide has been established over ethernet.
 
-2.  Navigate to a site using http (NOT https). If all goes well, you should see
-    a login page with the UNSW emblem.
+2.  Navigate to a site using http (e.g. [http://bbc.co.uk]). 
+    If all goes well, you should see a login page with the UNSW emblem.
 
 3.  Login and restart your browser. Confirm that you can access the internet.
 
-Note: You are still bound to 
+Note: You are bound to 
 [UNSW's ICT Policy](https://www.gs.unsw.edu.au/policy/documents/ictpolicy.pdf)
 and [Prodecures](https://www.gs.unsw.edu.au/policy/documents/ictprocedure.pdf)
 when using the internet in this manner
